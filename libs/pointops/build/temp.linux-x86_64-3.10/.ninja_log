@@ -1,0 +1,20 @@
+# ninja log v5
+1	6660	1741928287914943212	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/ball_query/ball_query_cuda.o	a0a1b527e6b62665
+3	6876	1741928288125947119	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/subtraction/subtraction_cuda.o	88367fe101c279c3
+1	7470	1741928288726958247	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/attention/attention_cuda.o	fe414bae33bdc925
+0	7495	1741928288745958599	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/aggregation/aggregation_cuda.o	744a6dce1b7c844e
+1	8718	1741928289972981317	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/grouping/grouping_cuda.o	3f13868e15c5735e
+2	8733	1741928289986981576	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/interpolation/interpolation_cuda.o	6bc84f80317c41ca
+2	8739	1741928289993981706	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/sampling/sampling_cuda.o	588f21b2fb0a3a28
+2	8937	1741928290190985353	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/knn_query/knn_query_cuda.o	12c25ee2474d6597
+2	8976	1741928290229986075	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/random_ball_query/random_ball_query_cuda.o	65b6b6c9416d5cb0
+2	14791	1741928296039093634	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/pointops_api.o	5c3652262dd64243
+1	15601	1741928296857108780	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/attention/attention_cuda_kernel.o	829ba05bfd638a10
+2	15727	1741928296983111113	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/random_ball_query/random_ball_query_cuda_kernel.o	a082f135f26c183e
+3	16452	1741928297708124537	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/sampling/sampling_cuda_kernel.o	fa5fecdedfd97940
+1	16481	1741928297739125111	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/grouping/grouping_cuda_kernel.o	a3c7ca83aa3e70e
+3	16495	1741928297752125352	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/subtraction/subtraction_cuda_kernel.o	e2b32826395a4b89
+1	16608	1741928297864127425	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/aggregation/aggregation_cuda_kernel.o	dcff69a705b6629
+2	17471	1741928298728143423	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/knn_query/knn_query_cuda_kernel.o	4e85415bebbfc53f
+2	18586	1741928299842164050	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/interpolation/interpolation_cuda_kernel.o	74724d30b835a879
+1	20169	1741928301425193361	/home/gpu/qf/oneformer3d/libs/pointops/build/temp.linux-x86_64-3.10/src/ball_query/ball_query_cuda_kernel.o	e4cebd6a3b47b03a
